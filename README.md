@@ -1,6 +1,6 @@
 ### Nombre del repositorio
 
-juan2485.github.io
+https://juan2485.github.io/portafolio_juan
 
 ### Respositorio Forkeados
 
